@@ -2,64 +2,64 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6TKuYPhkZXt":
+      case "66Wpg67gfDh":
         Script1();
         break;
-      case "5lBNUGimG2g":
+      case "5nzQdpjCpKO":
         Script2();
         break;
-      case "6NcptNmc3Ix":
+      case "6MpK5d5HbF4":
         Script3();
         break;
-      case "5w9Llzcq4Tn":
+      case "6M8zu87JWSC":
         Script4();
         break;
-      case "5rI240VN4dB":
+      case "66zDhyulUvu":
         Script5();
         break;
-      case "6iQ7V3DlVwA":
+      case "6YGxMaJcDbS":
         Script6();
         break;
-      case "5XZnS1I9wyA":
+      case "6PRYOxaq3DD":
         Script7();
         break;
-      case "6kTEXxqJgFJ":
+      case "6WoNsD0sJTg":
         Script8();
         break;
-      case "66H2fnvAvIp":
+      case "6ePgWTmGU2e":
         Script9();
         break;
-      case "5eXp4rgv2xv":
+      case "63pZBdmHPjs":
         Script10();
         break;
-      case "6MRj7FZRCRl":
+      case "6YYARxms71o":
         Script11();
         break;
-      case "5iuTKEVIV4N":
+      case "5ZP7PZK5rNC":
         Script12();
         break;
-      case "5x9Cr9Pjej5":
+      case "6oYWSYxSAnT":
         Script13();
         break;
-      case "5aeysjcHP3f":
+      case "6JfUtAlkcxE":
         Script14();
         break;
-      case "6peu8kQWUO2":
+      case "5eEF7Nlkbhp":
         Script15();
         break;
-      case "5yTWWaeZvPC":
+      case "6GC1PE1DOiT":
         Script16();
         break;
-      case "6M5RwT9IqTt":
+      case "6ULvbqUUmdM":
         Script17();
         break;
-      case "5Ww48Ex7JUI":
+      case "68dfKTiFUuJ":
         Script18();
         break;
-      case "5tFAX8rlW7X":
+      case "68dh4hvZczQ":
         Script19();
         break;
-      case "5h0t5EBVMhr":
+      case "6Ss2nN11mN1":
         Script20();
         break;
   }
@@ -153,7 +153,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -234,7 +234,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -315,7 +315,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -396,7 +396,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -477,7 +477,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -558,7 +558,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -639,7 +639,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -720,7 +720,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
@@ -801,7 +801,7 @@ else
 	}
 	else
 	{
-		if( voda_sell > voda || king_sell > voda || honda_sell > voda || honda_sell > voda )
+		if( voda_sell > voda || king_sell > king || honda_sell > honda || rel_sell > rel )
 		{
 			alert("You are trying to sell more shares than the actual. That's impossible !!");
 		}
